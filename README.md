@@ -34,7 +34,7 @@
 ------
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/thanosuser/THANOS-PROS/network/members"><img src="https://img.shields.io/github/forks/thanosuser/thanos-pros?label=Forks&logoColor=red&style=social"></a><p align="left"><a href="https://github.com/thanosuser/THANOS-PROS/stargazers"><img src="https://img.shields.io/github/stars/thanosuser/THANOS-PROS?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/thanosuser/THANOS-PROS"></a><p align="left"><a href="https://github.com/thanosuser/THANOS-PROS?"></a>
+    <a href="https://github.com/GARY444-AB/THANOS-PROS/network/members"><img src="https://img.shields.io/github/forks/thanosuser/thanos-pros?label=Forks&logoColor=red&style=social"></a><p align="left"><a href="https://github.com/thanosuser/THANOS-PROS/stargazers"><img src="https://img.shields.io/github/stars/thanosuser/THANOS-PROS?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/thanosuser/THANOS-PROS"></a><p align="left"><a href="https://github.com/thanosuser/THANOS-PROS?"></a>
 
 ------
 
